@@ -111,6 +111,6 @@ If you want to run it through a local server, you can use a simple extension suc
 
 ## 🎓 Academic Context
 
-This project was completed as part of **FIT5147** and focuses on interactive network visualisation design using D3.js. It demonstrates how visual encodings and user interaction can be combined to explore contribution and collaboration patterns in performing arts data.
+This project focuses on interactive network visualisation design using D3.js. It demonstrates how visual encodings and user interaction can be combined to explore contribution and collaboration patterns in performing arts data.
 
 ---
