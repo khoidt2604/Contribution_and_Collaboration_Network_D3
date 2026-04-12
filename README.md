@@ -32,7 +32,7 @@ This project was motivated by the need to better understand:
 
 ![Kelley Abbey's Victorian Stage Contribution and Collaboration Network](Contribution_and_Collaboration_Network.png)
 
-This network visualisation displays events and contributors connected to Kelley Abbey’s Victorian stage work. Event nodes are shown as black squares, while contributor nodes are shown as coloured circles. Contributor colour indicates sex, with blue for male, orange for female, and grey for unknown. The visualisation also supports switching to a collaboration-only network, where link thickness reflects the number of shared collaborations. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+This network visualisation displays events and contributors connected to Kelley Abbey’s Victorian stage work. Event nodes are shown as black squares, while contributor nodes are shown as coloured circles. Contributor colour indicates sex, with blue for male, orange for female, and grey for unknown. The visualisation also supports switching to a collaboration-only network, where link thickness reflects the number of shared collaborations. 
 
 ---
 
@@ -49,7 +49,7 @@ This network visualisation displays events and contributors connected to Kelley 
 - Added labels for both events and contributors
 - Added a custom legend with a checkbox to toggle network modes
 - Included tooltips with detailed node attributes
-- Enabled zooming, panning, dragging, and hover-based highlighting :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+- Enabled zooming, panning, dragging, and hover-based highlighting 
 
 ---
 
@@ -66,7 +66,7 @@ This network visualisation displays events and contributors connected to Kelley 
 - **Colour** to distinguish contributor sex
 - **Size** to represent number of collaborators
 - **Link width** to represent collaboration strength
-- **Labels and tooltips** for node identification and detail-on-demand :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+- **Labels and tooltips** for node identification and detail-on-demand 
 
 ---
 
@@ -75,13 +75,13 @@ This network visualisation displays events and contributors connected to Kelley 
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **D3.js v7** :contentReference[oaicite:8]{index=8}
+- **D3.js v7** 
 
 ---
 
 ## 📁 Files
 
-- `FIT5147S12025_PE3_Template.html` — main file containing the layout, styling, legend, tooltip, interaction logic, and D3 network visualisation :contentReference[oaicite:9]{index=9}
+- `FIT5147S12025_PE3_Template.html` — main file containing the layout, styling, legend, tooltip, interaction logic, and D3 network visualisation 
 - `Screenshot 2026-04-10 at 1.33.49 am.png` — network visualisation screenshot
 - `event_contribution_network.json` — event-contribution network dataset
 - `collaboration_network.json` — collaboration network dataset
@@ -105,7 +105,7 @@ If you want to run it through a local server, you can use a simple extension suc
 - Switching off event nodes reveals a clearer collaboration structure centred around Kelley Abbey.
 - Link thickness in the collaboration view helps identify repeated working relationships.
 - Node size helps highlight contributors with broader collaboration reach.
-- Hover interaction and highlighting make it easier to trace relationships within dense network clusters. :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}
+- Hover interaction and highlighting make it easier to trace relationships within dense network clusters. 
 
 ---
 
